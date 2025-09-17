@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Header](https://github.com/your-username/your-username/blob/main/assets/banner.png)
+![Header](https://github.com/Sahil9424r/Sahil9424r/blob/main/assets/banner.png)
 
 # 👋 Hi, I'm Sahil Shukla  
 
