@@ -1,5 +1,3 @@
-<!-- Banner -->
-![Header](https://github.com/Sahil9424r/Sahil9424r/blob/main/assets/banner.png)
 
 # 👋 Hi, I'm Sahil Shukla  
 
