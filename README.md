@@ -4,24 +4,50 @@
 # 👋 Hi, I'm Sahil Shukla  
 
 🎓 **B.Tech CSE Student at IIIT Ranchi (2022–2026)**  
-🚀 **AI Engineer | Machine Learning | Deep Learning | NLP | Computer Vision**  
-💡 Passionate about building **production-ready AI solutions** and solving real-world problems.  
+🚀 **AI Engineer | Generative AI | Agentic AI | Deep Learning | NLP | Computer Vision**  
+💡 I love transforming ideas into **intelligent, production-ready AI applications** that create real-world impact.  
+
+---
+
+## 🔥 About Me
+- 🌱 Currently exploring **Agentic AI** and **LangGraph** for building intelligent multi-agent systems.  
+- 🤖 Experienced in **ML/DL model development, deployment, and scaling** (Flask, FastAPI, Streamlit, AWS).  
+- 🧠 Passionate about **LLMs, RAG pipelines, and multimodal AI**.  
+- 🎯 800+ problems solved on **LeetCode**, sharpening DSA + problem-solving skills.  
+- ⚡ Fun fact: I enjoy turning research papers into **working prototypes**.  
 
 ---
 
 ## 🔧 Tech Stack
 
+### 💻 Programming & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🤖 Machine Learning & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C5A?style=for-the-badge&logo=chainlink&logoColor=white)  
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge&logo=keras&logoColor=white)
+
+### 🧠 Generative & Agentic AI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C5A?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-006699?style=for-the-badge&logo=graphql&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-00C4B3?style=for-the-badge&logo=robotframework&logoColor=white)
+
+### ⚡ Deployment
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -48,6 +74,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Sahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahil9424r&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil9424r&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahil9424r&theme=radical)
+
+---
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-shukla-a62b45261)  
@@ -57,4 +91,4 @@
 
 ---
 
-⭐️ _“Always exploring, always learning, always building.”_
+⭐️ _“Exploring the future with Generative AI, connecting minds with Agentic AI, and building tomorrow with Deep Learning.”_
